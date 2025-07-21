@@ -1,0 +1,5 @@
+summary: A command-line tool for generating documentation from annotated programming language source files
+webpage: https://www.doxygen.nl/
+version: 1.10.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/doxygen-1.10.0-freebsd-14.2-amd64.release.tar.xz 
+bin-sha: c19333e1e442e9491595c72d32b9671fb4a58048633c24e45a4a057e2595a636

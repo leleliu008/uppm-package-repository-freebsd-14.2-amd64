@@ -1,0 +1,5 @@
+summary: Utility that provides fast incremental file transfer
+webpage: https://rsync.samba.org/
+version: 3.4.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/rsync-3.4.1-freebsd-14.2-amd64.release.tar.xz 
+bin-sha: 0df9e7f18216ab04f7e8c2e61afe017437c9c9fb1ff9a67b2824b1631abf9887

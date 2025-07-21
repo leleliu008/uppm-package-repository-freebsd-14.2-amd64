@@ -1,0 +1,5 @@
+summary: A command-line option parsing utility
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/getopt-2.40.4-freebsd-14.2-amd64.release.tar.xz 
+bin-sha: c53ef421a3588b794b2be10d789a38d0632e7379634f614116305fb1698af8ce

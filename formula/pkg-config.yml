@@ -1,0 +1,5 @@
+summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
+webpage: https://freedesktop.org/wiki/Software/pkg-config
+version: 0.29.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/pkg-config-0.29.2-freebsd-14.2-amd64.release.tar.xz 
+bin-sha: 4e59372c4c92aa9837562a14a8ca9a60842c9896be86760baf86391ecea90f71

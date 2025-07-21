@@ -1,0 +1,5 @@
+summary: Yet another assembler, a complete reimplementation of NASM
+webpage: https://yasm.tortall.net
+version: 1.3.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/yasm-1.3.0-freebsd-14.2-amd64.release.tar.xz 
+bin-sha: 7216bc518381f51363df3d12c8151c566d732e3c135df20292e8605fb92c3e44
