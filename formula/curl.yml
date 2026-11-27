@@ -1,5 +1,5 @@
 summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
-webpage: https://curl.haxx.se/
-version: 8.14.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2025.07.21/curl-8.14.1-freebsd-14.2-amd64.release.tar.xz 
-bin-sha: 4046d154e8d0006024cd95ded0c993a4140567abd0227756151d3535bd6bfc43
+webpage: https://curl.se/
+version: 8.23.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.2-amd64/releases/download/2026.11.27/curl-8.23.0-freebsd-14.2-amd64.release.tar.xz
+bin-sha: d9246191592e6f7e6bb6a6e1fe87163d9d7084115490288ac868098f3b1ecdb5
